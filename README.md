@@ -4,6 +4,12 @@
 Assignment Project backend node js to generate dummy data and json-server for creting apis
 
 ## Deployment
+
+To install packages
+```bash
+  npm install
+```
+
 To Generate dummy data
 
 ```bash
