@@ -1,0 +1,414 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "price": "328.00",
+            "title": "Handmade Cotton Chips",
+            "shortDescription": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+            "images": [
+                {
+                    "title": "image 0",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 1",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 2",
+                    "url": "https://loremflickr.com/640/480"
+                }
+            ],
+            "currencyCode": "COP",
+            "country": "Benin",
+            "city": "Palatine",
+            "streetAddress": "0040 Tremblay Isle",
+            "rating": 47,
+            "star": 4,
+            "currencySymbol": "$",
+            "tags": [
+                "alive",
+                "sunny",
+                "meaty",
+                "grave",
+                "woozy"
+            ],
+            "tags2": [
+                "french",
+                "bubbly",
+                "pastel",
+                "better",
+                "golden"
+            ]
+        },
+        {
+            "id": 1,
+            "price": "95.00",
+            "title": "Oriental Granite Sausages",
+            "shortDescription": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+            "images": [
+                {
+                    "title": "image 0",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 1",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 2",
+                    "url": "https://loremflickr.com/640/480"
+                }
+            ],
+            "currencyCode": "LAK",
+            "country": "Togo",
+            "city": "West Landen",
+            "streetAddress": "967 Sterling Radial",
+            "rating": 62,
+            "star": 3,
+            "currencySymbol": "¥",
+            "tags": [
+                "early",
+                "joint",
+                "cheap",
+                "adept",
+                "leafy"
+            ],
+            "tags2": [
+                "yellow",
+                "yearly",
+                "arctic",
+                "lively",
+                "creepy"
+            ]
+        },
+        {
+            "id": 2,
+            "price": "195.00",
+            "title": "Gorgeous Rubber Salad",
+            "shortDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+            "images": [
+                {
+                    "title": "image 0",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 1",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 2",
+                    "url": "https://loremflickr.com/640/480"
+                }
+            ],
+            "currencyCode": "TJS",
+            "country": "Iceland",
+            "city": "Bellflower",
+            "streetAddress": "5585 Austyn Rapid",
+            "rating": 69,
+            "star": 3,
+            "currencySymbol": "L",
+            "tags": [
+                "nifty",
+                "grave",
+                "runny",
+                "legal",
+                "jaded"
+            ],
+            "tags2": [
+                "glossy",
+                "doting",
+                "robust",
+                "arctic",
+                "skinny"
+            ]
+        },
+        {
+            "id": 3,
+            "price": "775.00",
+            "title": "Fantastic Metal Pants",
+            "shortDescription": "The Football Is Good For Training And Recreational Purposes",
+            "images": [
+                {
+                    "title": "image 0",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 1",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 2",
+                    "url": "https://loremflickr.com/640/480"
+                }
+            ],
+            "currencyCode": "THB",
+            "country": "Lithuania",
+            "city": "East Enastad",
+            "streetAddress": "746 Ole Rest",
+            "rating": 61,
+            "star": 4,
+            "currencySymbol": "$",
+            "tags": [
+                "hairy",
+                "rapid",
+                "glass",
+                "light",
+                "urban"
+            ],
+            "tags2": [
+                "sparse",
+                "likely",
+                "weekly",
+                "canine",
+                "silent"
+            ]
+        },
+        {
+            "id": 4,
+            "price": "910.00",
+            "title": "Tasty Granite Hat",
+            "shortDescription": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+            "images": [
+                {
+                    "title": "image 0",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 1",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 2",
+                    "url": "https://loremflickr.com/640/480"
+                }
+            ],
+            "currencyCode": "KWD",
+            "country": "Sri Lanka",
+            "city": "Hermanton",
+            "streetAddress": "49551 Corkery Spring",
+            "rating": 49,
+            "star": 2,
+            "currencySymbol": "Rbl",
+            "tags": [
+                "testy",
+                "rough",
+                "hefty",
+                "bogus",
+                "minor"
+            ],
+            "tags2": [
+                "doting",
+                "shabby",
+                "unsung",
+                "active",
+                "somber"
+            ]
+        },
+        {
+            "id": 5,
+            "price": "481.00",
+            "title": "Licensed Rubber Shoes",
+            "shortDescription": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "images": [
+                {
+                    "title": "image 0",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 1",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 2",
+                    "url": "https://loremflickr.com/640/480"
+                }
+            ],
+            "currencyCode": "MRO",
+            "country": "Australia",
+            "city": "West Clovisstad",
+            "streetAddress": "349 Ashtyn Port",
+            "rating": 79,
+            "star": 2,
+            "currencySymbol": "₦",
+            "tags": [
+                "which",
+                "jaded",
+                "misty",
+                "great",
+                "nutty"
+            ],
+            "tags2": [
+                "flawed",
+                "better",
+                "pricey",
+                "frigid",
+                "amused"
+            ]
+        },
+        {
+            "id": 6,
+            "price": "474.00",
+            "title": "Sleek Granite Keyboard",
+            "shortDescription": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+            "images": [
+                {
+                    "title": "image 0",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 1",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 2",
+                    "url": "https://loremflickr.com/640/480"
+                }
+            ],
+            "currencyCode": "MAD",
+            "country": "Liberia",
+            "city": "New Jolie",
+            "streetAddress": "816 Hiram Gardens",
+            "rating": 65,
+            "star": 2,
+            "currencySymbol": "Lt",
+            "tags": [
+                "vital",
+                "cheap",
+                "minty",
+                "salty",
+                "bumpy"
+            ],
+            "tags2": [
+                "zigzag",
+                "knobby",
+                "severe",
+                "deadly",
+                "usable"
+            ]
+        },
+        {
+            "id": 7,
+            "price": "483.00",
+            "title": "Licensed Wooden Pizza",
+            "shortDescription": "The Football Is Good For Training And Recreational Purposes",
+            "images": [
+                {
+                    "title": "image 0",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 1",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 2",
+                    "url": "https://loremflickr.com/640/480"
+                }
+            ],
+            "currencyCode": "IRR",
+            "country": "Mozambique",
+            "city": "Dayneshire",
+            "streetAddress": "15454 Alda Manors",
+            "rating": 11,
+            "star": 5,
+            "currencySymbol": "$",
+            "tags": [
+                "moral",
+                "swift",
+                "misty",
+                "musty",
+                "fatal"
+            ],
+            "tags2": [
+                "winged",
+                "modern",
+                "mature",
+                "lovely",
+                "elated"
+            ]
+        },
+        {
+            "id": 8,
+            "price": "901.00",
+            "title": "Sleek Bronze Shoes",
+            "shortDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+            "images": [
+                {
+                    "title": "image 0",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 1",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 2",
+                    "url": "https://loremflickr.com/640/480"
+                }
+            ],
+            "currencyCode": "HRK",
+            "country": "Andorra",
+            "city": "Osinskiboro",
+            "streetAddress": "5908 O'Connell Valleys",
+            "rating": 65,
+            "star": 1,
+            "currencySymbol": "₺",
+            "tags": [
+                "solid",
+                "merry",
+                "cheap",
+                "nippy",
+                "petty"
+            ],
+            "tags2": [
+                "purple",
+                "elated",
+                "purple",
+                "feisty",
+                "humble"
+            ]
+        },
+        {
+            "id": 9,
+            "price": "850.00",
+            "title": "Luxurious Cotton Sausages",
+            "shortDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+            "images": [
+                {
+                    "title": "image 0",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 1",
+                    "url": "https://loremflickr.com/640/480"
+                },
+                {
+                    "title": "image 2",
+                    "url": "https://loremflickr.com/640/480"
+                }
+            ],
+            "currencyCode": "SCR",
+            "country": "Macao",
+            "city": "Lornaton",
+            "streetAddress": "60370 Jenifer Neck",
+            "rating": 34,
+            "star": 4,
+            "currencySymbol": "CHF",
+            "tags": [
+                "white",
+                "large",
+                "total",
+                "clear",
+                "jumpy"
+            ],
+            "tags2": [
+                "scarce",
+                "quaint",
+                "pretty",
+                "woeful",
+                "tricky"
+            ]
+        }
+    ]
+}
